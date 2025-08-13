@@ -26,7 +26,7 @@ El diagrama utiliza símbolos estándar de diagramas de flujo:
 
 ## Diagrama de Flujo
 
-![Diagrama de Flujo de Aprobación de Facturas](diagram-flujo2.jpeg)
+![Diagrama de Flujo de Aprobación de Facturas](https://github.com/corpasdev/DesarrolloPruebaJuniorIA/blob/main/imagen-diagrama-flujo2/diagram-flujo2.jpeg)
 
 ## Notas Adicionales
 
