@@ -1,4 +1,7 @@
 # Ejercicio 2: Diagrama de Flujo - Proceso de Aprobación de Facturas
+## Diagrama de Flujo
+
+![Diagrama de Flujo de Aprobación de Facturas](https://github.com/corpasdev/DesarrolloPruebaJuniorIA/blob/main/imagen-diagrama-flujo2/diagram-flujo2.jpeg)
 
 ## Descripción del Proceso
 
@@ -24,9 +27,7 @@ El diagrama utiliza símbolos estándar de diagramas de flujo:
 - **Rombos**: Representan decisiones con múltiples caminos posibles
 - **Flechas**: Indican la dirección del flujo y conectan los diferentes elementos
 
-## Diagrama de Flujo
 
-![Diagrama de Flujo de Aprobación de Facturas](https://github.com/corpasdev/DesarrolloPruebaJuniorIA/blob/main/imagen-diagrama-flujo2/diagram-flujo2.jpeg)
 
 ## Notas Adicionales
 
